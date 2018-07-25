@@ -1,2 +1,8 @@
-/cache/
+.idea
+.DS_Store
+
+/app/config/config.php
 /config/development/
+
+/var/cache
+/cache/
